@@ -4,12 +4,16 @@
 
 Content Distribution in the Age of AI
 
+## Why I chose this video
+
+Ross Simmonds explains how AI is changing content marketing and why content distribution is becoming increasingly important for B2B SaaS companies.
+
 ## Links
 
 YouTube:
 https://www.youtube.com/@RossSimmonds
 
-Personal Website:
+Website:
 https://rosssimmonds.com/
 
 Company:
@@ -17,28 +21,34 @@ https://foundationinc.co/
 
 ## Key Points
 
-1. Creating content is only half the battle.
+### Key Point 1: Creating Content Is Only Half The Work
 
-Ross believes many companies spend too much time creating content and too little time distributing it.
+Ross believes many companies spend too much time creating content and not enough time distributing it.
 
----
+My takeaway:
 
-2. Distribution is a competitive advantage.
-
-Companies should distribute content across multiple channels such as LinkedIn, YouTube, newsletters, Reddit, and communities.
+AI makes content creation easier for everyone. The real competitive advantage is getting content in front of the right audience.
 
 ---
 
-3. AI changes how people search and consume information.
+### Key Point 2: Distribution Is A Competitive Advantage
 
-Businesses should optimize content not only for Google but also for AI assistants and answer engines.
+Companies should distribute content through multiple channels such as LinkedIn, YouTube, newsletters, Reddit, and communities.
+
+My takeaway:
+
+B2B SaaS companies should invest in distribution strategies alongside AI-powered content creation.
 
 ---
 
-4. Repurposing content increases reach.
+### Key Point 3: AI Is Changing Search
 
-One piece of content can be transformed into blog posts, LinkedIn posts, videos, newsletters, and podcasts.
+Ross explains that people increasingly search through AI assistants and answer engines instead of only using Google.
 
-## My Takeaway
+My takeaway:
 
-AI makes content creation easier, but distribution remains difficult and valuable. B2B SaaS companies should focus on both AI-powered content production and effective content distribution strategies to gain a competitive advantage.
+Businesses should optimize content not only for Google but also for AI systems that summarize and recommend information.
+
+## Why Ross Simmonds Is Important
+
+Ross combines AI, SEO, content marketing, and distribution into a unified strategy. His ideas are highly relevant for companies that want to scale content production and stay competitive in the era of AI search.
