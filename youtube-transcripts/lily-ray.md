@@ -1,17 +1,25 @@
 # Lily Ray YouTube Notes
 
-## Video Topic
+## Video Title
 
-AI-Generated Content and Google's Search Quality
+GEO, AEO, LLMO: Separating Fact from Fiction & How to Win in AI Search - Lily Ray at MozCon 2025
+
+## Video URL
+
+https://www.youtube.com/watch?v=2nJkT8zOzcM
+
+## Date Accessed
+
+2026-06-22
 
 ## Why I chose this video
 
-Lily Ray explains how AI-generated content affects SEO and how Google's algorithms evaluate content quality, expertise, and trustworthiness.
+Lily Ray is one of the leading experts in SEO and AI Search. In this MozCon presentation, she explains how AI is changing search behavior and introduces concepts such as GEO (Generative Engine Optimization), AEO (Answer Engine Optimization), and LLMO.
 
 ## Links
 
 YouTube:
-https://www.youtube.com/results?search_query=Lily+Ray+SEO
+https://www.youtube.com/watch?v=2nJkT8zOzcM
 
 Website:
 https://lilyray.nyc/
@@ -21,34 +29,34 @@ https://www.linkedin.com/in/lilyraynyc/
 
 ## Key Points
 
-### Key Point 1: Content Quality Remains Essential
+### Key Point 1: AI Search Is An Evolution Of SEO
 
-Lily emphasizes that AI-generated content must still demonstrate expertise, authority, and trustworthiness.
+Lily explains that GEO, AEO, and LLMO are not completely new disciplines but evolutions of traditional SEO practices.
 
-My takeaway:
+**My takeaway:**
 
-AI can accelerate content creation, but human oversight and expertise remain critical.
-
----
-
-### Key Point 2: Search Engines Reward Helpful Content
-
-Lily frequently discusses Google's focus on helpful and trustworthy information.
-
-My takeaway:
-
-Businesses should prioritize user value over simply publishing large amounts of AI-generated content.
+Businesses should adapt their SEO strategies to AI-powered search while continuing to follow SEO fundamentals.
 
 ---
 
-### Key Point 3: AI Enhances SEO, Not Replaces It
+### Key Point 2: Authority And Trust Matter
 
-Lily believes AI is a tool that improves SEO workflows rather than replacing strategic thinking.
+Lily emphasizes that AI systems prefer authoritative and trustworthy sources.
 
-My takeaway:
+**My takeaway:**
 
-Companies should use AI to improve efficiency while maintaining strong editorial standards.
+AI-generated content should demonstrate expertise, authority, and trustworthiness.
 
-## Why Lily Ray Is Important
+---
 
-Lily Ray provides valuable insights into how AI-generated content interacts with search engine algorithms and quality standards. Her expertise helps marketers build sustainable SEO strategies in the age of AI.
+### Key Point 3: The Fundamentals Of SEO Still Matter
+
+Although AI is changing search experiences, Lily believes that creating helpful, valuable, and well-structured content remains essential.
+
+**My takeaway:**
+
+AI should enhance SEO strategies rather than replace proven principles.
+
+## Summary
+
+This presentation helped me understand how AI search is reshaping SEO. Lily Ray demonstrates that while new concepts such as GEO and AEO are emerging, the foundations of SEO—quality, expertise, and trust—remain critical for long-term success.
