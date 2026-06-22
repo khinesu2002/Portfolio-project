@@ -1,54 +1,62 @@
 # Rand Fishkin YouTube Notes
 
-## Video Topic
+## Video Title
 
-The Future of Search in the Age of AI
+Rand Fishkin on SEO, AI Overviews, and the Future of Content
+
+## Video URL
+
+https://www.youtube.com/watch?v=5JQvdLYvGZI
+
+## Date Accessed
+
+2026-06-22
 
 ## Why I chose this video
 
-Rand Fishkin discusses how search behavior is changing because of AI assistants, social media, and alternative search platforms. He explains why marketers should think beyond traditional Google SEO.
+Rand Fishkin is the co-founder of SparkToro and one of the most influential voices in SEO and digital marketing. In this interview, he discusses how AI Overviews, zero-click searches, and changing user behavior are reshaping SEO and content marketing.
 
 ## Links
 
 YouTube:
-https://www.youtube.com/results?search_query=Rand+Fishkin
+https://www.youtube.com/watch?v=5JQvdLYvGZI
+
+Website:
+https://sparktoro.com/
 
 LinkedIn:
 https://www.linkedin.com/in/randfishkin/
 
-Company:
-https://sparktoro.com/
-
 ## Key Points
 
-### Key Point 1: Search Is Diversifying
+### Key Point 1: Zero-Click Search Is Growing
 
-Rand explains that users increasingly search on ChatGPT, YouTube, Reddit, TikTok, and other platforms instead of relying only on Google.
+Rand explains that users increasingly get answers directly from Google or AI assistants without clicking on websites.
 
-My takeaway:
+**My takeaway:**
 
-Businesses should optimize content for multiple channels and AI systems rather than focusing solely on Google rankings.
-
----
-
-### Key Point 2: Brand Matters More Than Ever
-
-Rand believes strong brands perform better across search engines, AI assistants, and social media.
-
-My takeaway:
-
-AI-powered SEO should focus not only on rankings but also on building brand authority and trust.
+Businesses should focus on building brand awareness and creating value across multiple platforms instead of relying only on website traffic.
 
 ---
 
-### Key Point 3: Audience Research Is Essential
+### Key Point 2: AI Is Changing Search Behavior
 
-Rand emphasizes understanding where audiences spend time and how they discover information.
+AI assistants and AI Overviews are changing how people discover information.
 
-My takeaway:
+**My takeaway:**
 
-AI can create content efficiently, but marketers still need deep audience understanding to create effective strategies.
+Companies should optimize content not only for traditional search engines but also for AI-powered search systems.
 
-## Why Rand Fishkin Is Important
+---
 
-Rand Fishkin is one of the most influential voices in SEO and digital marketing. His insights help B2B SaaS companies prepare for a future where AI search, social media, and traditional search coexist.
+### Key Point 3: Brand And Trust Matter More Than Ever
+
+Rand believes trusted brands perform better across search engines, AI assistants, and social media.
+
+**My takeaway:**
+
+AI-powered SEO should focus on building authority and trust, not only rankings.
+
+## Summary
+
+This video helped me understand how AI Overviews and zero-click searches are changing SEO. Rand Fishkin demonstrates that businesses need to adapt to AI-powered search while continuing to build strong brands and valuable content.
