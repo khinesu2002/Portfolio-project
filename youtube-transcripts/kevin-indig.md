@@ -1,17 +1,25 @@
 # Kevin Indig YouTube Notes
 
-## Video Topic
+## Video Title
 
-The Future of SEO and AI Search
+Moving Beyond Old SEO Models in the Age of AI
+
+## Video URL
+
+https://www.youtube.com/watch?v=AqAoKGftsSE
+
+## Date Accessed
+
+2026-06-22
 
 ## Why I chose this video
 
-Kevin Indig shares insights about AI-powered search engines, SEO trends, and growth strategies for SaaS companies.
+Kevin Indig is a growth advisor and SEO expert who has worked at Shopify, Atlassian, and G2. In this interview, he explains how AI is reshaping search behavior and what businesses need to do to remain visible in AI-powered search environments.
 
 ## Links
 
 YouTube:
-https://www.youtube.com/results?search_query=Kevin+Indig
+https://www.youtube.com/watch?v=AqAoKGftsSE
 
 Website:
 https://www.kevin-indig.com/
@@ -21,34 +29,34 @@ https://www.linkedin.com/in/kevin-indig/
 
 ## Key Points
 
-### Key Point 1: SEO Is Shifting Toward AI Search
+### Key Point 1: AI Is Changing Search Behavior
 
-Kevin believes AI-powered search engines and LLMs are changing how users discover information.
+Kevin explains that search is evolving from "10 blue links" to AI-generated answers and AI assistants such as ChatGPT and Google AI Overviews.
 
-My takeaway:
+**My takeaway:**
 
-Companies should optimize content not only for Google rankings but also for AI systems.
-
----
-
-### Key Point 2: Topical Authority Matters
-
-Kevin emphasizes building authority around topics rather than focusing only on keywords.
-
-My takeaway:
-
-AI can help generate content quickly, but expertise and authority remain essential.
+Businesses should optimize content not only for traditional search engines but also for AI-powered search systems.
 
 ---
 
-### Key Point 3: Data Should Guide Content Strategy
+### Key Point 2: Trust and Brand Matter More
 
-Kevin advocates using data to understand user behavior and improve content performance.
+Kevin found that users often look for brands they already trust when interacting with AI-generated answers.
 
-My takeaway:
+**My takeaway:**
 
-AI-generated content becomes more effective when combined with data-driven decisions.
+Building authority and trust is becoming increasingly important in AI-powered SEO.
 
-## Why Kevin Indig Is Important
+---
 
-Kevin Indig bridges traditional SEO and emerging AI search technologies. His insights help B2B SaaS companies prepare for the future of search.
+### Key Point 3: Content Needs More Context
+
+Kevin explains that AI users ask longer and more specific questions, which means companies need more targeted and audience-focused content.
+
+**My takeaway:**
+
+AI-powered SEO requires a deeper understanding of audience needs and search intent.
+
+## Summary
+
+This video helped me understand how AI is changing search behavior and SEO strategies. Kevin Indig demonstrates that businesses must move beyond traditional SEO models and focus on trust, audience understanding, and AI search optimization.
