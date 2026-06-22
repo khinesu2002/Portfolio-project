@@ -11,7 +11,7 @@ Kevin Indig is one of the most respected experts in modern SEO and AI search. He
 ## Links
 
 LinkedIn:
-https://www.linkedin.com/in/kevin-indig/
+https://www.linkedin.com/in/kevinindig/
 
 Website:
 https://www.kevin-indig.com/
