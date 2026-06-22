@@ -11,7 +11,7 @@ Gaetano DiNardi specializes in B2B SaaS growth, SEO, and content marketing. He s
 ## Links
 
 LinkedIn:
-https://www.linkedin.com/in/gaetano-dinardi/
+https://www.linkedin.com/in/officialg/
 
 Website:
 https://www.gaetanodinardi.com/
