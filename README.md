@@ -1,86 +1,90 @@
-# 100Hires Portfolio Setup
+# AI-Powered SEO Research Project
 
 ## Objective
 
-Complete the initial setup task using Cursor, GitHub, and AI-assisted development tools.
-
-## Tools Installed
-
-* Cursor IDE
-* GitHub
-
-## Research on AI Tools
-
-### Claude Code
-
-I searched for Claude Code in Cursor Marketplace but could not find it.
-
-I contacted Cursor Support and learned that Claude Code is not a Marketplace extension. Instead, it is a standalone CLI tool from Anthropic, and Cursor supports Claude Code hooks through Third-party Skills.
-
-### Codex
-
-I also searched for Codex in Cursor Marketplace.
-
-Cursor Support explained that Codex is not a Marketplace extension. Instead, Codex models are available directly in Cursor's AI model picker.
-
-## Steps Completed
-
-1. Installed Cursor IDE.
-2. Connected GitHub with Cursor.
-3. Investigated Claude Code integration.
-4. Investigated Codex integration.
-5. Created a public GitHub repository.
-6. Opened the repository in Cursor.
-7. Created this README file.
-
-## Issues Encountered
-
-### Authentication Error
-
-While connecting GitHub to Cursor, I encountered an authentication error.
-
-I resolved the issue by:
-
-* Logging into GitHub in the browser first.
-* Reconnecting Cursor to GitHub.
-* Completing authorization in the same browser session.
-
-### Claude Code and Codex Availability
-
-Claude Code and Codex were not available as Marketplace extensions in my Cursor installation.
-
-I researched the issue and contacted Cursor Support to understand the correct integration methods.
-
-## What I Learned
-
-* Cursor uses Open VSX instead of the VS Code Marketplace.
-* Not all AI tools are distributed as IDE extensions.
-* Research and troubleshooting are essential when learning new technologies.
-* Independent problem solving is an important part of working with AI tools.
-
-## Reflection
-
-This exercise taught me how to investigate unfamiliar tools, troubleshoot authentication issues, and document findings clearly. I learned that understanding the ecosystem and researching solutions is just as important as using the tools themselves.
-
-## Project Summary
-
 This project explores AI-powered SEO content production for B2B SaaS companies.
 
-I researched 10 industry experts and organized findings into:
+The goal was to research industry experts, collect insights from LinkedIn and YouTube, understand how AI is changing search and content marketing, and organize the findings in a structured GitHub repository.
 
-- LinkedIn research
-- YouTube transcript notes
-- AI search observations
-- Personal reflections
+---
+
+## Repository Structure
+
+```text
+research
+├── sources.md
+├── linkedin-posts
+│   └── 10 expert files
+├── youtube-transcripts
+│   └── 10 video notes
+└── other
+    ├── ai-search-notes.md
+    └── final-reflection.md
+```
+
+---
+
+## Experts Researched
+
+* Ross Simmonds
+* Amanda Natividad
+* Kevin Indig
+* Lily Ray
+* Rand Fishkin
+* Gaetano DiNardi
+* Brian Dean
+* Nathan Gotch
+* Chris Walker
+* Bernard Huang
+
+---
 
 ## Topics Explored
 
-- AI search
-- Content distribution
-- Zero-click marketing
-- SEO and content optimization
-- Demand generation
-- Audience research
+* AI Search
+* Content Distribution
+* Zero-Click Marketing
+* SEO and Content Optimization
+* Demand Generation
+* Audience Research
+* AI Overviews
+* Brand Authority
+
+---
+
+## Research Methods
+
+I collected information from:
+
+* LinkedIn posts
+* YouTube videos and interviews
+* Company websites
+* Personal blogs
+* AI-assisted research tools
+
+I organized the materials into separate folders and committed changes regularly throughout the project.
+
+---
+
+## Tools Used
+
+* Cursor IDE
+* GitHub
+* ChatGPT
+* YouTube
+* LinkedIn
+
+### Notes on Claude Code and Codex
+
+While setting up Cursor, I researched Claude Code and Codex integration.
+
+I learned that:
+
+* Claude Code is a standalone CLI tool from Anthropic and is not a Cursor Marketplace extension.
+* Codex is integrated directly into Cursor's model picker and is not installed as an extension.
+* Cursor uses Open VSX instead of the VS Code Marketplace.
+
+---
 
 ## What I Learned
 
@@ -88,10 +92,18 @@ This project helped me understand how AI is transforming SEO and content marketi
 
 I learned that:
 
-- AI can accelerate content creation and research.
-- Content distribution is becoming increasingly important.
-- Search is expanding beyond Google to AI assistants and social platforms.
-- Audience understanding remains essential.
-- Human expertise and strategic thinking are still necessary in AI-powered marketing.
+* AI can accelerate content creation and research.
+* Content distribution is becoming increasingly important.
+* Search is expanding beyond Google to AI assistants and social platforms.
+* Audience understanding remains essential.
+* Human expertise and strategic thinking are still necessary in AI-powered marketing.
 
-Overall, AI should be viewed as a tool that enhances marketing rather than replacing marketers.
+---
+
+## Reflection
+
+Researching these experts helped me understand different perspectives on AI-powered SEO and content marketing.
+
+I learned that AI is not replacing marketers. Instead, AI is changing how marketers work and creating new opportunities for businesses that adapt quickly.
+
+Overall, AI should be viewed as a tool that enhances marketing rather than replacing human expertise.
