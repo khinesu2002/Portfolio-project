@@ -11,7 +11,7 @@ Lily Ray is a leading SEO expert known for her research on Google's algorithms, 
 ## Links
 
 LinkedIn:
-https://www.linkedin.com/in/lilyraynyc/
+https://www.linkedin.com/in/lily-ray-44755615/
 
 Website:
 https://lilyray.nyc/
