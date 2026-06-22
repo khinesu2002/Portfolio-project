@@ -11,7 +11,7 @@ Bernard Huang founded Clearscope, one of the most popular AI-powered content opt
 ## Links
 
 LinkedIn:
-https://www.linkedin.com/in/bernardhuang/
+https://www.linkedin.com/in/bernardjhuang/
 
 Website:
 https://www.clearscope.io/
