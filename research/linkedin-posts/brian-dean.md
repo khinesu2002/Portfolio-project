@@ -11,7 +11,7 @@ Brian Dean is one of the most influential SEO educators. He is known for creatin
 ## Links
 
 LinkedIn:
-https://www.linkedin.com/in/brianedean/
+https://www.linkedin.com/in/brianedean/ 
 
 Website:
 https://backlinko.com/
