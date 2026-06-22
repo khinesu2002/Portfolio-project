@@ -1,54 +1,62 @@
 # Bernard Huang YouTube Notes
 
-## Video Topic
+## Video Title
 
-AI Content Optimization and SEO
+How to do B2B Content Strategy & SEO: Bernard Huang (Clearscope Office Hours)
+
+## Video URL
+
+https://www.youtube.com/watch?v=VNXjG1OZxPw
+
+## Date Accessed
+
+2026-06-22
 
 ## Why I chose this video
 
-Bernard Huang is the founder of Clearscope, an AI-powered content optimization platform. He discusses how AI can help marketers create high-quality and optimized content.
+Bernard Huang is the co-founder of Clearscope, an AI-powered SEO platform. In this video, he explains how B2B SaaS companies can create content strategies that align with search intent and deliver valuable user experiences.
 
 ## Links
 
 YouTube:
-https://www.youtube.com/results?search_query=Bernard+Huang+Clearscope
-
-Website:
-https://www.clearscope.io/
+https://www.youtube.com/watch?v=VNXjG1OZxPw
 
 LinkedIn:
-https://www.linkedin.com/in/bernardhuang/
+https://www.linkedin.com/in/bernardjhuang/
+
+Company:
+https://www.clearscope.io/
 
 ## Key Points
 
-### Key Point 1: AI Enhances Content Optimization
+### Key Point 1: Understand Search Intent
 
-Bernard believes AI helps marketers create more relevant and optimized content.
+Bernard explains that content should be created based on user intent rather than focusing only on keywords.
 
-My takeaway:
+**My takeaway:**
 
-AI should improve content quality and efficiency, not replace human creativity.
-
----
-
-### Key Point 2: Search Intent Is Essential
-
-Bernard emphasizes understanding user intent when creating content.
-
-My takeaway:
-
-Successful AI-powered SEO requires aligning content with what users actually need.
+AI-powered SEO should help businesses understand what users actually want and create content that answers those needs.
 
 ---
 
-### Key Point 3: Quality Content Builds Authority
+### Key Point 2: Different Keywords Need Different Content Types
 
-Bernard advocates for producing authoritative content that demonstrates expertise.
+Bernard introduces different content formats such as topic clusters, resources, comparison pages, and use-case pages.
 
-My takeaway:
+**My takeaway:**
 
-AI tools are most effective when used to support high-quality content strategies.
+Businesses should match content formats to search intent to improve SEO performance.
 
-## Why Bernard Huang Is Important
+---
 
-Bernard Huang demonstrates how AI can optimize content while maintaining relevance, quality, and authority in search results.
+### Key Point 3: User Experience Matters
+
+Bernard emphasizes that successful SEO is about providing the best content experience and answering users' questions clearly.
+
+**My takeaway:**
+
+AI can help create content faster, but user experience and clarity remain essential.
+
+## Summary
+
+This video helped me understand how AI-powered SEO is evolving beyond keyword optimization. Bernard Huang demonstrates that understanding search intent and creating valuable content experiences are critical for long-term success in B2B SaaS marketing.
